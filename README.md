@@ -80,3 +80,6 @@ https://supabase.com/docs/guides/auth/auth-helpers/nextjs-server-components
 
 # Qiita記事
 
+認証ボタンの作成 Next.js 13 (app router) with Supabase Authentication(メール認証) - Qiita
+
+https://qiita.com/masakinihirota/items/770742842f3f020bb758
