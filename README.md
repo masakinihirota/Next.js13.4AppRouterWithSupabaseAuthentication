@@ -16,13 +16,15 @@ https://github.com/masakinihirota/Next.js13.4AppRouterWithSupabaseAuthentication
 
 `npm i`
 
-Supabaseの設定を.env.localに記載
+Supabaseの設定を `.env.local` に記載
+
+※Supabase の設定は私の過去の記事か、BingやChatGPTに聞いてください。
 
 ## 起動
 
 `npm run dev`
 
-
+# その他詳しいことは記事をご覧ください。
 
 # Supabase と Vercelの連携
 
