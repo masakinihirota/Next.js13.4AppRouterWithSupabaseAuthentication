@@ -18,7 +18,7 @@ export default function Home() {
     <div>
       {user ? (
         <>
-          <Link href="/auth">
+          <Link href="/authButton">
             <button>認証ボタン</button>
           </Link>
           <h3>
