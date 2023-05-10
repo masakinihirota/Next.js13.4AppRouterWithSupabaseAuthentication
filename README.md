@@ -1,3 +1,9 @@
+# Qiita記事
+
+認証ボタンの作成 Next.js 13 (app router) with Supabase Authentication(メール認証) - Qiita
+
+https://qiita.com/masakinihirota/items/770742842f3f020bb758
+
 # 認証ボタンの作成 Next.js 13.4.1 app router with Supabase Authentication
 
 ## リポジトリ
@@ -78,8 +84,3 @@ Supabase Auth with Next.js app directory | Supabase Docs
 
 https://supabase.com/docs/guides/auth/auth-helpers/nextjs-server-components
 
-# Qiita記事
-
-認証ボタンの作成 Next.js 13 (app router) with Supabase Authentication(メール認証) - Qiita
-
-https://qiita.com/masakinihirota/items/770742842f3f020bb758
