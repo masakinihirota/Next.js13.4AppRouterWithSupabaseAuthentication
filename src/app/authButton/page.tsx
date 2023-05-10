@@ -26,11 +26,11 @@ export default function Home() {
         <br />
         <Link href="/profile">自分のプロフィールを見る。</Link>
         <br />
-        <Link href="/">ホームに戻る。</Link>
-        <br />
         <button type="button" onClick={signOut}>
           ログアウトする。
         </button>
+        <br />
+        <Link href="/">ホームに戻る。</Link>
       </div>
     )
   }
