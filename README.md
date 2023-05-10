@@ -6,12 +6,25 @@ https://qiita.com/masakinihirota/items/770742842f3f020bb758
 
 # 認証ボタンの作成 Next.js 13.4.1 app router with Supabase Authentication
 
+## 環境
+
+Next.js 13.4.1 app router
+TailwindCSS
+Supabase
+Supabase 認証ヘルパー
+react-hook-form
+Zod
+VSCode
+Windows10
+
 ## リポジトリ
+
 masakinihirota/Next.js13.4AppRouterWithSupabaseAuthentication
 
 https://github.com/masakinihirota/Next.js13.4AppRouterWithSupabaseAuthentication
 
 ## インストール
+
 `gh repo clone masakinihirota/Next.js13.4AppRouterWithSupabaseAuthentication`
 
 `npm i`
